@@ -1,1 +1,1 @@
-este es la nueva rama conflicto 
+este es la nsegunda rama conflicto 
